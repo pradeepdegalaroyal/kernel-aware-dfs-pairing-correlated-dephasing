@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Kernel-aware decoherence-free pairing under correlated dephasing"
+type: software
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+version: 0.1.0
+date-released: 2026-10-30
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/kernel-aware-dfs-pairing-correlated-dephasing"
+abstract: "Exact compile-time pairing of physical qubits into decoherence-free-subspace logical qubits under spatially correlated dephasing, with a study of kernel misspecification, geometry mismatch and Ramsey calibration cost."
+keywords:
+  - correlated dephasing
+  - decoherence-free subspace
+  - quantum compilation
+  - noise calibration
